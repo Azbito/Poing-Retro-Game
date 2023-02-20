@@ -6,6 +6,7 @@ function love.load()
   Player:load()
   Ball:load()
   AI:load()
+
 end
 
 function love.update(dt)
